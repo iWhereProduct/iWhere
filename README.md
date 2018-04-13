@@ -1,5 +1,5 @@
 # iWhere
 
-# This is demo veriosn of "iWhere", where only two pages have been rewrited from MVC to Viper: "LogIn" and "Create Account"
+# This is the demo verion of "iWhere", where only two pages have been rewrited from MVC to Viper: "LogIn" and "Create Account"
 
-# For more detail information, please contact: mezencev.m.v@mail.ru
+# For full version and more detail information, please contact: mezencev.m.v@mail.ru
